@@ -13,3 +13,7 @@ The Complex part of the whole project is the training of the model which will ta
 The last part which is left out will be the APP building. We will use Android Studio and JAVA to build this app. We will keep the UI simple and fast.
 
 	
+# DATASET
+https://drive.google.com/drive/folders/1ej6_QqP7dgLZDZFjhkF87oYw-pGsHYxb?usp=sharing
+Download the files given in the link for the dataset files. I have distributed and organized the pictures according to classes and for alphabets each class has 4000 pictures and for digits each class has 10000 files. 
+While splittling the data, we will do a 70 : 30 split for Training and testing dataset resectively.
